@@ -1,0 +1,5 @@
+game:FindService("StarterGui"):SetCore("SendNotification", {
+		Title = "Admin Mode",
+		Text = "ON! use ; in chat",
+		Duration = dur or 3
+	})
